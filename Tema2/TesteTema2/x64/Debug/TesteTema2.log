@@ -1,0 +1,11 @@
+﻿  Source2.cpp
+D:\Anul3-Sem2\Cripto\TesteTema2\TesteTema2\Source2.cpp(178,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Anul3-Sem2\Cripto\TesteTema2\TesteTema2\Source2.cpp(184,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Anul3-Sem2\Cripto\TesteTema2\TesteTema2\Source2.cpp(198,39): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Anul3-Sem2\Cripto\TesteTema2\TesteTema2\Source2.cpp(200,72): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Anul3-Sem2\Cripto\TesteTema2\TesteTema2\Source2.cpp(207,74): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Anul3-Sem2\Cripto\TesteTema2\TesteTema2\Source2.cpp(212,51): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Anul3-Sem2\Cripto\TesteTema2\TesteTema2\Source2.cpp(328,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Anul3-Sem2\Cripto\TesteTema2\TesteTema2\Source2.cpp(449,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Anul3-Sem2\Cripto\TesteTema2\TesteTema2\Source2.cpp(503,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TesteTema2.vcxproj -> D:\Anul3-Sem2\Cripto\TesteTema2\x64\Debug\TesteTema2.exe
